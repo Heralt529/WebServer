@@ -1,0 +1,14 @@
+body {
+    background-color: black !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow-y: hidden;
+    background-color: black;
+    gap: 70px;
+}
+a{
+    color: white;
+    font-size: 5vh;
+}
